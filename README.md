@@ -1,2 +1,2 @@
 # RayHudsonBot
-Reddit bot for ray hudson quots
+Reddit bot for ray hudson quotes (In Work)
